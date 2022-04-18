@@ -4,8 +4,26 @@ body {
   }
   h1{
     font-family: Verdana, sans-serif;
-    font-size: 50px;
+    font-size: 75px;
     text-align: center;
+
+
+  }
+  a{
+
+    font-family: Verdana;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+
     
 
   }
+  h2{
+
+    font-family: Verdana;
+    font-style: italic;
+    text-align: center;
+
+  }
+  
